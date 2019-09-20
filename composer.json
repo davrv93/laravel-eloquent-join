@@ -10,8 +10,8 @@
     ],
     "homepage": "https://github.com/fico7489/laravel-eloquent-join",
     "support": {
-        "issues": "https://github.com/fico7489/laravel-eloquent-join/issues",
-        "source": "https://github.com/fico7489/laravel-eloquent-join"
+        "issues": "https://github.com/davrv93/laravel-eloquent-join/issues",
+        "source": "https://github.com/davrv93/laravel-eloquent-join"
     },
     "license": "MIT",
     "authors": [
@@ -23,7 +23,7 @@
         }
     ],
     "require": {
-        "illuminate/database": "5.*"
+        "illuminate/database": "^5.*"
     },
     "require-dev": {
         "orchestra/testbench": "3.*",
